@@ -1,4 +1,5 @@
-ZCZC W01 100 L11 lanjutan tugas 1 sampai selesai
+ZCZC W01 100 L11 melanjutkan assignment week 1 sampai selesai
+ZCZC W01 100 L11 lanjutan tugas 1 sampai selesai assignment 1
 ZCZC W01 50 L11 mulai kerjakan tugas 1
 ZCZC W01 100 L02 Ikut kelas
 ZCZC W00 5 L01 Join Discord PBP dan join kelas scele PBP
