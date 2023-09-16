@@ -1,7 +1,17 @@
+ZCZC W02 120 L12 mengerjakan tugas 2
+ZCZC W02 100 L02 ikut kelas
+ZCZC W02 100 L05 belajar quiz dan mengerjakan
+ZCZC W02 100 L02 ikut kelas
+ZCZC W02 120 L98 belajar trumpet
+ZCZC W02 200 L73 main honkai star rail
+ZCZC W02 120 L80 nonton youtube
+
 ZCZC W01 100 L11 melanjutkan assignment week 1 sampai selesai
 ZCZC W01 100 L11 lanjutan tugas 1 sampai selesai assignment 1
 ZCZC W01 50 L11 mulai kerjakan tugas 1
 ZCZC W01 100 L02 Ikut kelas
+
+
 ZCZC W00 5 L01 Join Discord PBP dan join kelas scele PBP
 ZCZC W00 100 L02 Ikut Kelas pertama tanggal 29 Agustus
 ZCZC W00 15 L03 Setup github repository dan membuat log dan mengumpulkan di scele
