@@ -1,4 +1,10 @@
-ZCZC W03 50 menyelesaikan weekly assignment 3
+ZCZC W04 120 L05 nonton video berhubungan dengan OS
+ZCZC W04 150 L05 belajar untuk quiz selanjutnya
+ZCZC W04 100 L02 ikut kelas
+ZCZC W04 90 L14 menyelesaikan assignment 4
+ZCZC W04 100 L02 ikut kelas
+
+ZCZC W03 50 L13 menyelesaikan weekly assignment 3
 ZCZC W03 100 L13 mulai mengerjakan weekly assignment 3
 ZCZC W03 30 L05 mengerjakan quiz dan persiapan
 ZCZC W03 50 L05 belajar untuk quiz

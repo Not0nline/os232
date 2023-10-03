@@ -32,5 +32,18 @@ explanation on the fundementals of regex
 * [Structures of Directory in Operating System](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/) - Taking a deeper look into the types of directories in operating systems including the advantages, disadvantages, and use case of every single type of directory
 
 * [Should You Partition Your Hard Drive? The Pros and Cons](https://www.stellarinfo.com/article/should-you-partition-your-hard-drive-pros-and-cons.php#:~:text=Partitioning%20allows%20you%20to%20organize,partitions%20to%20access%20them%20swiftly.) --- Advantages and disadvantages of partitioning disks 
+
+<h2>Week 4</h2>
+
+* [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/) --- Learning about the differences between logical and physical adressing
+
+* [Static and Dynamic Loading in Operating System](https://www.javatpoint.com/static-and-dynamic-loading-in-operating-system#:~:text=Dynamic%20loading%20refers%20to%20the,the%20need%20for%20additional%20software.) --- why we use dynamic loading
+
+* [Contiguous Memory Allocation](https://www.javatpoint.com/contiguous-memory-allocation-in-operating-system) --- Contigious Memory Allocation, Definition, Types of Methods, Advantages, and Disadvantages
+
+* [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/) --- Paging and the calculations
+
+* [Swapping](https://www.scaler.com/topics/swapping-in-os/) --- Definition of Swapping, the advantages, and disadvantages
+
 <br>
 <hr>
