@@ -45,5 +45,13 @@ explanation on the fundementals of regex
 
 * [Swapping](https://www.scaler.com/topics/swapping-in-os/) --- Definition of Swapping, the advantages, and disadvantages
 
+<h2>Week 5</h2>
+
+* [What is Virtual Memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.) --- definition of virtual memory
+
+* [What is Demand Paging in Operating System?](https://www.geeksforgeeks.org/what-is-demand-paging-in-operating-system/) --- Definition, benifits, and drawbacks to demand paging
+
+* [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) --- Page Replacement algorithm 
+
 <br>
 <hr>
