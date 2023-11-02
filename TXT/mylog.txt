@@ -1,3 +1,9 @@
+ZCZC W06 100 L02 ikut kelas kamis
+ZCZC W06 100 L16 kerjakan pop quiz week 6
+ZCZC W06 120 L16 mengerjakan tugas week 6
+ZCZC W06 100 L02 ikut kelas selasa
+ZCZC W06 100 L02 ikut kelas qna
+
 ZCZC W05 30 L05 mengerjakan quiz
 ZCZC W05 150 L05 belajar untuk quiz selanjutnya
 ZCZC W05 120 L15 mengerjakan tugas WEEK 5 OS

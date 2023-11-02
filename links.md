@@ -53,5 +53,13 @@ explanation on the fundementals of regex
 
 * [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) --- Page Replacement algorithm 
 
+<h2>Week 6</h2>
+
+* [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm) --- learning what process is
+
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- learning how to fork in C
+
+* [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/) --- learning concurrency
+
 <br>
 <hr>
