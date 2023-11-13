@@ -61,5 +61,14 @@ explanation on the fundementals of regex
 
 * [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/) --- learning concurrency
 
+<h2>Week 7</h2>
+
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- Learning the process of synchronization
+
+* [Hardware Synchronization Algorithms : Unlock and Lock, Test and Set, Swap](https://www.geeksforgeeks.org/hardware-synchronization-algorithms-unlock-and-lock-test-and-set-swap/) --- Learning hardware synchronization algorythms
+
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) --- Learning deadlocks 
+
+
 <br>
 <hr>
