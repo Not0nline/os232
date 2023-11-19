@@ -69,6 +69,20 @@ explanation on the fundementals of regex
 
 * [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) --- Learning deadlocks 
 
+<h2>Week 8</h2>
+
+* [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) --- learning about CPU Scheduling in OS
+
+* [CPU Scheduling Criteria](https://www.geeksforgeeks.org/cpu-scheduling-criteria/) --- Learning about CPU scheduling in OS
+
+* [Thread Scheduling](https://www.geeksforgeeks.org/thread-scheduling/) --- Learning about thread scheduling 
+
+* [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) --- learning about multi-processor scheduling
+
+* [Scheduling in Real Time Systems](https://www.geeksforgeeks.org/scheduling-in-real-time-systems/) --- Scheduling in real time
+
+* [Algorithm Evaluation](https://mycareerwise.com/content/algorithm-evaluation-for-scheduling/content/exam/gate/computer-science) --- Counting the algorythm of scheduling
+
 
 <br>
 <hr>
