@@ -83,6 +83,13 @@ explanation on the fundementals of regex
 
 * [Algorithm Evaluation](https://mycareerwise.com/content/algorithm-evaluation-for-scheduling/content/exam/gate/computer-science) --- Counting the algorythm of scheduling
 
+<h2>Week 9</h2>
+
+* [System Structure](https://www.mass.gov/info-details/system-structure-0) --- System structure
+
+* [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/) --- Disk scheduling in OS
+
+* [Error Detection in Computer Networks](https://www.geeksforgeeks.org/error-detection-in-computer-networks/) --- How to detect error in computer network
 
 <br>
 <hr>
