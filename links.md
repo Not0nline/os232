@@ -91,5 +91,13 @@ explanation on the fundementals of regex
 
 * [Error Detection in Computer Networks](https://www.geeksforgeeks.org/error-detection-in-computer-networks/) --- How to detect error in computer network
 
+<h2>Week 10</h2>
+
+* [Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm) --- I/O in OS
+
+* [Applications of Input/Output Interface](https://www.geeksforgeeks.org/applications-of-input-output-interface/) --- application of I/O in OS
+
+* [Kernel I/O Subsystem in Operating System](https://www.geeksforgeeks.org/kernel-i-o-subsystem-in-operating-system/) --- Kernel I/O in OS
+
 <br>
 <hr>

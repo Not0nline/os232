@@ -1,3 +1,8 @@
+ZCZC W10 100 L20 selesain tugas week 10
+ZCZC W10 100 L05 belajar quiz
+ZCZC W10 100 L02 ikut kelas
+ZCZC W10 720 L20 mulai kerjain tugas week 10
+
 ZCZC W09 120 L05 nonton video buat quiz
 ZCZC W09 100 L02 ikut kelas
 ZCZC W09 300 L19 selesain tugas 9
